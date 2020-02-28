@@ -1,6 +1,6 @@
 # Pong
 
-Hi there! This small game of Pong was just a small project on the side to teach myself a good workflow for making a game. 
+Hi there! This game of Pong was just a small project on the side to teach myself a good workflow for making a game. 
 
 You can choose to play with a friend or play against the CPU. 
 
